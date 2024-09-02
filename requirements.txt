@@ -1,0 +1,7 @@
+pip install pillow
+pip install matplotlib
+pip install numpy
+pip install opencv-python
+pip install tqdm
+pip install requests
+pip install mediapipe
